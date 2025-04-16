@@ -1,0 +1,5 @@
+#node_modules can be installed easily using "npm install express" that is why not adding to git
+node_modules 
+
+#since security is important that is why .env not adding
+.env
